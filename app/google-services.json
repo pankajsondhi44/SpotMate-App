@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17718893946",
+    "firebase_url": "https://spotmate-feb1e.firebaseio.com",
+    "project_id": "spotmate-feb1e",
+    "storage_bucket": "spotmate-feb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17718893946:android:1fc46375f278be54",
+        "android_client_info": {
+          "package_name": "com.spotmate.spotmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17718893946-b4gocqe9jb003n2n6c4g2e5bl9l1bbio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotmate.spotmate",
+            "certificate_hash": "147b8df3d2628f9c3b0fe870d6ec6731cdf7536f"
+          }
+        },
+        {
+          "client_id": "17718893946-mdlo0spglc8t5iqhms1uae9ice47qf6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA721kV32VNtBIvpD8LvQs-b5U1_hmpDnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17718893946-mdlo0spglc8t5iqhms1uae9ice47qf6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="ok">Ok</string>
+    <string name="permission_denied">Open the app again to give permission for location to use the app</string>
+    <string name="app_name">Spot Mate</string>
+    <string name="action_rate_us">Rate Us</string>
+    <string name="action_about_us">About Us</string>
+    <string name="exit">Exit</string>
+    <string name="title_location_permission">Location Access</string>
+    <string name="text_location_permission">Location needed to run the app</string>
+    <string name="home_desc">This app allows you to share your location with your friends</string>
+    <string name="home_desc2">Pressing the switch will enable or disable sharing your location.(Note that turning the switch off will stop the app from functioning.)</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_rate_us">RateUs</string>
+    <string name="about_us_desc">We are a team of 4 rookie developers</string>
+    <string name="rate_us_desc">5 stars - Excellent\n4 stars - Very Good\n3 stars - Good\n2 stars - Average\n1 star - Poor\n</string>
+    <string name="submit">Submit</string>
+    <string name="sign_in">Sign In</string>
+    <string name="default_web_client_id1">98377186840-j0ef1fgqop3i7lfmfu3iaj5nd5mo76l4.apps.googleusercontent.com </string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_out">Successfuly Signed Out</string>
+    <string name="title_text">Sign In to continue</string>
+</resources>
